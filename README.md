@@ -1,0 +1,1 @@
+A registration page of any website consists of multiple fields, such as username, password, email address, first and last name, and a few more to allow users to sign up. Writing test cases for the registration page includes checking the functions of all these input fields with positive and negative values.
